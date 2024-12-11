@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Sebby-steve
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently using React Ts, NodeJs, Python
+- 💞️ I’m looking to collaborate on any Web app development and Data Science 
+- 📫 How to reach me +(250)789-094-783 and on stevesebby3@gmail.com
